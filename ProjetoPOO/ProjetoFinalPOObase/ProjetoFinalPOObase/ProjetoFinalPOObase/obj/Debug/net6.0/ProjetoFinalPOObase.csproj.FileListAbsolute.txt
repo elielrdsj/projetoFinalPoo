@@ -1,0 +1,15 @@
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\bin\Debug\net6.0\ProjetoFinalPOObase.exe
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\bin\Debug\net6.0\ProjetoFinalPOObase.deps.json
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\bin\Debug\net6.0\ProjetoFinalPOObase.runtimeconfig.json
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\bin\Debug\net6.0\ProjetoFinalPOObase.dll
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\bin\Debug\net6.0\ProjetoFinalPOObase.pdb
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.csproj.AssemblyReference.cache
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.AssemblyInfoInputs.cache
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.AssemblyInfo.cs
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.dll
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\refint\ProjetoFinalPOObase.dll
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.pdb
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ProjetoFinalPOObase.genruntimeconfig.cache
+C:\Users\Lucas Rios\source\repos\LetsCodeWebFullStack\Aula1\ProjetoFinalPOObase\ProjetoFinalPOObase\obj\Debug\net6.0\ref\ProjetoFinalPOObase.dll
