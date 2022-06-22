@@ -9,11 +9,11 @@ namespace ProjetoPOO
     public class Produto
     {
         public long codigoBarras;
-        public string descricao;
+        public string? descricao;
         public double preco;
         public double estoque;
         public int unidadeDeMedida;
-        public Loja loja;
+        public Loja? loja;
 
         public void AlteraQuant(double quant)
         {

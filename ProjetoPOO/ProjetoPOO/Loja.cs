@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProjetoPOO
 {
-    internal class Loja
+    public class Loja
     {
         public int numeroDaloja;
-        public string numeroTelefone;
-        public string email;
-        public string endereco;
+        public string? numeroTelefone;
+        public string? email;
+        public string? endereco;
     }
 }
