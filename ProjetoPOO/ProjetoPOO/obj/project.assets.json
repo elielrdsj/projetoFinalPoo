@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CLIENTE\\.nuget\\packages\\": {}
+    "C:\\Users\\eliel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CLIENTE\\Desktop\\projetoFinalPoo\\ProjetoPOO\\ProjetoPOO\\ProjetoPOO.csproj",
+      "projectUniqueName": "D:\\Users\\eliel\\Downloads\\TopCoders\\repos\\projetoFinalPoo\\ProjetoPOO\\ProjetoPOO\\ProjetoPOO.csproj",
       "projectName": "ProjetoPOO",
-      "projectPath": "C:\\Users\\CLIENTE\\Desktop\\projetoFinalPoo\\ProjetoPOO\\ProjetoPOO\\ProjetoPOO.csproj",
-      "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CLIENTE\\Desktop\\projetoFinalPoo\\ProjetoPOO\\ProjetoPOO\\obj\\",
+      "projectPath": "D:\\Users\\eliel\\Downloads\\TopCoders\\repos\\projetoFinalPoo\\ProjetoPOO\\ProjetoPOO\\ProjetoPOO.csproj",
+      "packagesPath": "C:\\Users\\eliel\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\eliel\\Downloads\\TopCoders\\repos\\projetoFinalPoo\\ProjetoPOO\\ProjetoPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CLIENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eliel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
